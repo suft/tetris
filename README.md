@@ -1,5 +1,5 @@
 # Tetris
-![RocketLogo](./assets/images/tetris.jpg "Smart Rockets")
+![Tetris](./assets/images/tetris.jpg "Tetris")
 
 ## Installation
     git clone https://github.com/suft/tetris
