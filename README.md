@@ -1,5 +1,5 @@
 # Tetris
-![Tetris](./assets/images/tetris.jpg "Tetris")
+![Tetris](./asssets/images/tetris.jpg "Tetris")
 
 ## Installation
     git clone https://github.com/suft/tetris
