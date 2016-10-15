@@ -1,0 +1,18 @@
+{
+  "name": "tetris",
+  "version": "1.0.0",
+  "description": "A Tetris Clone",
+  "main": "./window.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "Sufien Tout",
+  "contributors": [
+    "Beidou Zhang",
+    "Mei Kai Koh"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.7"
+  }
+}
