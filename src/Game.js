@@ -20,7 +20,7 @@ Game.prototype.render = function() {
     noFill();
     stroke('SkyBlue');
     rectMode(CENTER);
-    rect(400, 290, 300, 500);
+    rect(500, 290, 300, 500);
 
 };
 
